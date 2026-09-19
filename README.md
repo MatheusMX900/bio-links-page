@@ -27,6 +27,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📝 Autor
 
-Feito com ❤️ por **Matheus Andrade**
+Feito por **Matheus Andrade**
 
 - GitHub: [@mtandradecabral](https://github.com/mtandradecabral)
